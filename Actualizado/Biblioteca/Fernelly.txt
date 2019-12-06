@@ -1,0 +1,7 @@
+.DisplayMember= Obtiene o establece la propiedad para mostrar.
+ValueMember= Obtiene o establece la ruta de acceso de la propiedad para usar como el valor real de los
+ elementos en ListControl .
+SelectedIndex=Obtiene o establece el índice que especifica el elemento seleccionado actualmente.
+btn enabled= false no aparece, true aparece.
+ExecuteNonQuery=Ejecuta una instrucción Transact-SQL contra la conexión y devuelve el número de filas afectadas.
+dispose=

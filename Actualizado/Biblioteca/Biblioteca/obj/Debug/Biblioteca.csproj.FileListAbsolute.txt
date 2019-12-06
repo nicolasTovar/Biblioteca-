@@ -1,0 +1,70 @@
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBibliotecaSena.resources
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBiblioteca.resources
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorial.resources
+C:\Users\SENA\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibro.resources
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBibliotecaSena.resources
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBiblioteca.resources
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorial.resources
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibro.resources
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Juan\Desktop\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBibliotecaSena.resources
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBiblioteca.resources
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorial.resources
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibro.resources
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\SENA\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBibliotecaSena.resources
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBiblioteca.resources
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorial.resources
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibro.resources
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorialC.resources
+C:\Users\Juan\Desktop\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibroC.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBibliotecaSena.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmBiblioteca.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorial.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmEditorialC.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibro.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmLibroC.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Juan\Desktop\Actualizado Biblioteca\Actualizado\Biblioteca\Biblioteca\obj\Debug\Biblioteca.FrmCrud.resources
